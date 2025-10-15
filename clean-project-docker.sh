@@ -1,5 +1,5 @@
 #!/bin/bash
-
+### Clean a specific project without nuking everything ###
 set -e
 
 echo "=================================================="

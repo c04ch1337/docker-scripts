@@ -1,5 +1,5 @@
 #!/bin/bash
-
+### See what's currently running ###
 echo "=================================================="
 echo "🔍 DOCKER ENVIRONMENT CHECK"
 echo "=================================================="

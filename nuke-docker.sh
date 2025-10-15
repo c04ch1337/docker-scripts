@@ -1,5 +1,5 @@
 #!/bin/bash
-
+### Complete destruction of all Docker resources ###
 set -e
 
 echo "=================================================="
