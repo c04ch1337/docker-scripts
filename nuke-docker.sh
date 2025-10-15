@@ -63,4 +63,3 @@ echo ""
 echo "🎯 Next steps:"
 echo "   Run: ./clean-project.sh (to clean specific project)"
 echo "   Run: ./setup-fresh.sh (to start fresh setup)"
-EOF
